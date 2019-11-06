@@ -1,0 +1,13 @@
+body{
+  background-color: #4a524e;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.content_exito a{
+  color: var(--green-color);
+
+}

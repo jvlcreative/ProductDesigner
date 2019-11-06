@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+
+  .option{
+    color: white;
+  }
+
+  .products{
+    display: inherit;
+    height: auto;
+  }
+  .product{
+    margin-top: auto;
+  }
+  .main_section{
+    padding: 4%;
+    color: white;
+  }
+  body{
+    background: #2b2e2d;
+  }
+}
