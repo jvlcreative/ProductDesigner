@@ -138,7 +138,25 @@ nav li a:hover{
 
 .main_button:hover{
   background-color: #2fcc7d;
+
 }
+.morado:hover{
+  background-color: #a805a6;
+
+}
+.azul:hover{
+  background-color: #1a5e8e;
+
+}
+.amarillo:hover{
+  background-color: #dde636;
+
+}
+.rojo:hover{
+  background-color: #be2222;
+
+}
+
 .modulo_registro{
   background-color: var(--white-color);
   box-shadow: var(--box);
